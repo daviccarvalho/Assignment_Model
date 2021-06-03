@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "yarn": "^1.22.10"
+  },
+  "name": "comp229-m2021-assignment",
+  "version": "0.0.1",
+  "description": "Project main for assignment",
+  "main": "index.js",
+  "author": "Davi Carvalho",
+  "license": "MIT"
+}
